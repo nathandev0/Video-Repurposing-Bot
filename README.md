@@ -13,11 +13,12 @@
 - **2) Incorporates an intelligent video management system**
 - **3) Compatible with Windows and macOS**
 
-<h2 id="contact"> ⚙️ Other Automation Solutions: </h2>
+<h2 id="contact"> ⚙️ Other automation solutions: </h2>
 
-- **1) [Tinder automation bot](https://github.com/nathandev0/Tinder_Automation_Bot)**
-- **2) [Bumble automation bot](https://github.com/nathandev0/Bumble_Automation_Bot)**
-- **3) [Badoo automation bot](https://github.com/nathandev0/Badoo_Automation_Bot)**
+- **1) [Instagram image repurposing bot](https://github.com/nathandev0/Image-Repurposing-Bot)**
+- **2) [TikTok automation bot](https://github.com/nathandev0/Tiktok_Automation_Bot)**
+- **3) [Tinder automation bot](https://github.com/nathandev0/Tinder_Automation_Bot)**
+- **4) [Bumble automation bot](https://github.com/nathandev0/Bumble_Automation_Bot)**
 
 <h2 id="contact"> 💬 Contact</h2>
 
