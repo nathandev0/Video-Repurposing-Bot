@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://github.com/nathandev0/Video-Repurposing-Bot/blob/de271cfc0c4bcebecd03cec1ff13b435aae8d1c6/src/demo.gif" alt="video working"/>
+</p>
 <h1 align="center"> ⬆️ TikTok Video Repurposing Bot </h1>
 <p align="center"><strong>FFmpeg</strong>-based video repurposing bot for <strong>TikTok</strong>, <strong>Instagram</strong> (reels) and <strong> YouTube</strong> (shorts) </p>
 <h2 id="contact"> 👀 Functionality: </h2>
